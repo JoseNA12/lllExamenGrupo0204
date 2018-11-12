@@ -1,6 +1,11 @@
 package Caso3_MEDIATOR;
 
 
+import Caso3_MEDIATOR.ColleaguesConcretos.*;
+import Caso3_MEDIATOR.MediadoresConcretos.AlgodonMediator;
+import Caso3_MEDIATOR.MediadoresConcretos.JeansMediator;
+import Caso3_MEDIATOR.MediadoresConcretos.SedaMediator;
+
 public class DemoMediator {
 
 	public static void main(String[] args)

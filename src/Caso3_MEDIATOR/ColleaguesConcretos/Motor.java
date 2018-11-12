@@ -1,7 +1,10 @@
-package Caso3_MEDIATOR;
+package Caso3_MEDIATOR.ColleaguesConcretos;
 
 
-public class Motor implements LavadoraInteligente{
+import Caso3_MEDIATOR.LavadoraInteligente;
+import Caso3_MEDIATOR.LavadoraMediator;
+
+public class Motor implements LavadoraInteligente {
 
 	private Boolean encendido;
 	private LavadoraMediator mediator;

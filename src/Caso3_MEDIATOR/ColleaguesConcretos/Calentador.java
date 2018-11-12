@@ -1,4 +1,7 @@
-package Caso3_MEDIATOR;
+package Caso3_MEDIATOR.ColleaguesConcretos;
+
+import Caso3_MEDIATOR.LavadoraInteligente;
+import Caso3_MEDIATOR.LavadoraMediator;
 
 public class Calentador implements LavadoraInteligente {
 

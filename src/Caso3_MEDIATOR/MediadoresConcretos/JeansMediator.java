@@ -1,5 +1,8 @@
-package Caso3_MEDIATOR;
+package Caso3_MEDIATOR.MediadoresConcretos;
 
+
+import Caso3_MEDIATOR.*;
+import Caso3_MEDIATOR.ColleaguesConcretos.*;
 
 public class JeansMediator implements LavadoraMediator {
 
