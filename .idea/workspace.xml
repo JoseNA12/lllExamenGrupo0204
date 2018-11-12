@@ -1,71 +1,266 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="34cf5502-892e-4fa1-8b0c-0c46fbe5036d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Caso3_MEDIATOR/AlgodonMediator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Caso3_MEDIATOR/Calentador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Caso3_MEDIATOR/DemoMediator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Caso3_MEDIATOR/JeansMediator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Caso3_MEDIATOR/Lavadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Caso3_MEDIATOR/LavadoraInteligente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Caso3_MEDIATOR/LavadoraMediator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Caso3_MEDIATOR/Motor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Caso3_MEDIATOR/RemovedorSuciedad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Caso3_MEDIATOR/SedaMediator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Caso3_MEDIATOR/SensorTemperatura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Caso3_MEDIATOR/Valvula.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Caso3_CHAIN_OF_RESPONSABILITY/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Caso4_Patron/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Caso4_CHAIN_OF_RESPONSIBILITY/Main.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1679308170">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.68" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="80" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="80" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="129" />
+          <entry key="java" value="3876" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="3876" />
+          <entry key="PLAIN_TEXT" value="129" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Main.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Caso3_MEDIATOR/Motor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="40" selection-start="106" selection-end="106" vertical-scroll-proportion="0.057757646">
-              <folding />
+            <state relative-caret-position="102">
+              <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="13" selection-end-column="5" />
+              <folding>
+                <element signature="e#207#208#0" expanded="true" />
+                <element signature="e#238#239#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Caso3_MEDIATOR/DemoMediator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="748">
+              <caret line="44" column="48" selection-start-line="44" selection-start-column="48" selection-end-line="44" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Caso3_MEDIATOR/SensorTemperatura.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="26" lean-forward="true" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Caso3_MEDIATOR/JeansMediator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="33" column="45" selection-start-line="33" selection-start-column="45" selection-end-line="33" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Caso3_MEDIATOR/AlgodonMediator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="64">
+              <caret line="34" column="37" selection-start-line="34" selection-start-column="37" selection-end-line="34" selection-end-column="37" />
+              <folding>
+                <element signature="e#1369#1370#0" expanded="true" />
+                <element signature="e#1435#1436#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Caso3_MEDIATOR/RemovedorSuciedad.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+              <folding>
+                <element signature="e#234#235#0" expanded="true" />
+                <element signature="e#265#266#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Caso3_MEDIATOR/Valvula.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="33" />
+              <folding>
+                <element signature="e#182#183#0" expanded="true" />
+                <element signature="e#213#214#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Caso3_MEDIATOR/SensorTemperatura.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Caso3_MEDIATOR/Lavadora.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Caso3_MEDIATOR/LavadoraMediator.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Caso3_MEDIATOR/SedaMediator.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Caso3_MEDIATOR/Motor.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Caso3_MEDIATOR/AlgodonMediator.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Caso3_MEDIATOR/JeansMediator.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Caso3_MEDIATOR/Calentador.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Caso3_MEDIATOR/RemovedorSuciedad.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Caso3_MEDIATOR/Valvula.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Caso1_Patron/Main.java" />
+        <option value="$PROJECT_DIR$/src/Caso2_Patron/Main.java" />
+        <option value="$PROJECT_DIR$/src/Caso3_CHAIN_OF_RESPONSABILITY/Main.java" />
+        <option value="$PROJECT_DIR$/src/Caso4_Patron/Main.java" />
+        <option value="$PROJECT_DIR$/src/Caso3_CHAIN_OF_RESPONSABILITY/TipoRopa.java" />
+        <option value="$PROJECT_DIR$/src/Caso3_CHAIN_OF_RESPONSABILITY/Parametros.java" />
+        <option value="$PROJECT_DIR$/src/Caso3_CHAIN_OF_RESPONSABILITY/ComponenteInteligente.java" />
+        <option value="$PROJECT_DIR$/src/Caso3_CHAIN_OF_RESPONSABILITY/Usuario.java" />
+        <option value="$PROJECT_DIR$/src/Caso3_CHAIN_OF_RESPONSABILITY/Calentador.java" />
+        <option value="$PROJECT_DIR$/src/Caso3_CHAIN_OF_RESPONSABILITY/Valvula.java" />
+        <option value="$PROJECT_DIR$/src/Caso3_CHAIN_OF_RESPONSABILITY/SensorTemperatura.java" />
+        <option value="$PROJECT_DIR$/src/Caso3_CHAIN_OF_RESPONSABILITY/Motor.java" />
+        <option value="$PROJECT_DIR$/src/Caso3_CHAIN_OF_RESPONSABILITY/Componente.java" />
+        <option value="$PROJECT_DIR$/src/Caso3_CHAIN_OF_RESPONSABILITY/Lavadora.java" />
+        <option value="$PROJECT_DIR$/src/Caso3_CHAIN_OF_RESPONSABILITY/Tambor.java" />
+        <option value="$PROJECT_DIR$/src/Caso3_MEDIATOR/Colleague.java" />
+        <option value="$PROJECT_DIR$/src/Caso3_MEDIATOR/Sensor.java" />
+        <option value="$PROJECT_DIR$/src/Caso3_MEDIATOR/LavadoraInteligente.java" />
+        <option value="$PROJECT_DIR$/src/Caso3_MEDIATOR/Tambor.java" />
+        <option value="$PROJECT_DIR$/src/Caso3_MEDIATOR/LavadoraMediator.java" />
+        <option value="$PROJECT_DIR$/src/Caso3_MEDIATOR/BotonIniciar.java" />
+        <option value="$PROJECT_DIR$/src/Caso3_MEDIATOR/Valvula.java" />
+        <option value="$PROJECT_DIR$/src/Caso3_MEDIATOR/Lavadora.java" />
+        <option value="$PROJECT_DIR$/src/Caso3_MEDIATOR/SensorTemperatura.java" />
+        <option value="$PROJECT_DIR$/src/Caso3_MEDIATOR/Calentador.java" />
+        <option value="$PROJECT_DIR$/src/Caso3_MEDIATOR/SedaMediator.java" />
+        <option value="$PROJECT_DIR$/src/Caso3_MEDIATOR/Motor.java" />
+        <option value="$PROJECT_DIR$/src/Caso3_MEDIATOR/JeansMediator.java" />
+        <option value="$PROJECT_DIR$/src/Caso3_MEDIATOR/AlgodonMediator.java" />
+        <option value="$PROJECT_DIR$/src/Caso3_MEDIATOR/RemovedorSuciedad.java" />
+        <option value="$PROJECT_DIR$/src/Caso3_MEDIATOR/TestMediator.java" />
+        <option value="$PROJECT_DIR$/src/Caso3_MEDIATOR/DemoMediator.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="62" />
-    <option name="y" value="60" />
+    <option name="x" value="-1324" />
     <option name="width" value="1386" />
     <option name="height" value="788" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HelloWorld" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HelloWorld" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HelloWorld" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HelloWorld" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HelloWorld" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
+          <expand>
+            <path>
+              <item name="lllExamenGrupo0204" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lllExamenGrupo0204" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="lllExamenGrupo0204" type="58d84e3e:PackageViewProjectNode" />
+              <item name="lllExamenGrupo0204" type="616d4139:PackageViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="lllExamenGrupo0204" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="lllExamenGrupo0204" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="lllExamenGrupo0204" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="lllExamenGrupo0204" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
         </subPane>
       </pane>
     </panes>
@@ -73,9 +268,40 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541910755423" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541993371275" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/ChainofResponsibility" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jose_\Documents\GitHub\lllExamenGrupo0204\src\Caso3_MEDIATOR" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.DemoMediator">
+    <configuration name="DemoMediator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Caso3_MEDIATOR.DemoMediator" />
+      <module name="lllExamenGrupo0204" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Caso3_MEDIATOR.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="lllExamenGrupo0204" />
@@ -86,5 +312,348 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.DemoMediator" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DemoMediator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="34cf5502-892e-4fa1-8b0c-0c46fbe5036d" name="Default Changelist" comment="" />
+      <created>1541910744621</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541910744621</updated>
+      <workItem from="1541910746386" duration="857000" />
+      <workItem from="1541951501486" duration="23871000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="24728000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1374" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25416037" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.32884097" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32786885" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5229508" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39892185" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Caso2_Patron/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/Caso1_Patron/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Caso4_CHAIN_OF_RESPONSIBILITY/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+          <folding>
+            <element signature="e#95#96#0" expanded="true" />
+            <element signature="e#145#146#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Caso3_MALO/TipoRopa.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Caso3_MALO/Parametros.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#538#539#0" expanded="true" />
+            <element signature="e#573#574#0" expanded="true" />
+            <element signature="e#626#627#0" expanded="true" />
+            <element signature="e#674#675#0" expanded="true" />
+            <element signature="e#711#712#0" expanded="true" />
+            <element signature="e#742#743#0" expanded="true" />
+            <element signature="e#792#793#0" expanded="true" />
+            <element signature="e#832#833#0" expanded="true" />
+            <element signature="e#874#875#0" expanded="true" />
+            <element signature="e#915#916#0" expanded="true" />
+            <element signature="e#980#981#0" expanded="true" />
+            <element signature="e#1040#1041#0" expanded="true" />
+            <element signature="e#1082#1083#0" expanded="true" />
+            <element signature="e#1123#1124#0" expanded="true" />
+            <element signature="e#1188#1189#0" expanded="true" />
+            <element signature="e#1248#1249#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Caso3_MALO/Usuario.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Caso3_MALO/Calentador.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+          <folding>
+            <element signature="e#343#344#0" expanded="true" />
+            <element signature="e#371#372#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Caso3_MALO/Valvula.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="20" selection-end-column="5" />
+          <folding>
+            <element signature="e#487#488#0" expanded="true" />
+            <element signature="e#522#523#0" expanded="true" />
+            <element signature="e#594#595#0" expanded="true" />
+            <element signature="e#664#665#0" expanded="true" />
+            <element signature="e#707#708#0" expanded="true" />
+            <element signature="e#748#749#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Caso3_MALO/SensorTemperatura.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="31" lean-forward="true" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Caso3_MALO/Motor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+          <folding>
+            <element signature="e#334#335#0" expanded="true" />
+            <element signature="e#362#363#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Caso3_MALO/ComponenteInteligente.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="42" lean-forward="true" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Caso3_MALO/Lavadora.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="78" selection-start-line="11" selection-start-column="78" selection-end-line="11" selection-end-column="78" />
+          <folding>
+            <element signature="e#806#807#0" expanded="true" />
+            <element signature="e#855#856#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Caso3_MALO/Componente.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+          <folding>
+            <element signature="e#236#237#0" expanded="true" />
+            <element signature="e#272#273#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Caso3_MALO/Tambor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+          <folding>
+            <element signature="e#234#235#0" expanded="true" />
+            <element signature="e#260#261#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Caso3_MEDIATOR/BotonIniciar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#194#195#0" expanded="true" />
+            <element signature="e#225#226#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Caso3_MEDIATOR/Tambor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="10" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Caso3_MEDIATOR/LavadoraMediator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="32" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Caso3_MEDIATOR/LavadoraInteligente.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Caso3_MEDIATOR/Calentador.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="37" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="37" />
+          <folding>
+            <element signature="e#214#215#0" expanded="true" />
+            <element signature="e#245#246#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Caso3_MEDIATOR/Lavadora.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="37" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="37" />
+          <folding>
+            <element signature="e#183#184#0" expanded="true" />
+            <element signature="e#214#215#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Caso3_MEDIATOR/SedaMediator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="25" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Caso3_MEDIATOR/Valvula.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="33" />
+          <folding>
+            <element signature="e#182#183#0" expanded="true" />
+            <element signature="e#213#214#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Caso3_MEDIATOR/SensorTemperatura.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="26" lean-forward="true" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Caso3_MEDIATOR/JeansMediator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="33" column="45" selection-start-line="33" selection-start-column="45" selection-end-line="33" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Caso3_MEDIATOR/AlgodonMediator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="34" column="37" selection-start-line="34" selection-start-column="37" selection-end-line="34" selection-end-column="37" />
+          <folding>
+            <element signature="e#1369#1370#0" expanded="true" />
+            <element signature="e#1435#1436#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Caso3_MEDIATOR/Motor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="13" selection-end-column="5" />
+          <folding>
+            <element signature="e#207#208#0" expanded="true" />
+            <element signature="e#238#239#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Caso3_MEDIATOR/RemovedorSuciedad.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+          <folding>
+            <element signature="e#234#235#0" expanded="true" />
+            <element signature="e#265#266#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Caso3_MEDIATOR/DemoMediator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="44" column="48" selection-start-line="44" selection-start-column="48" selection-end-line="44" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>

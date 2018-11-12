@@ -1,4 +1,4 @@
-package Caso3_CHAIN_OF_RESPONSABILITY;
+package Caso4_CHAIN_OF_RESPONSIBILITY;
 
 public class Main {
 
